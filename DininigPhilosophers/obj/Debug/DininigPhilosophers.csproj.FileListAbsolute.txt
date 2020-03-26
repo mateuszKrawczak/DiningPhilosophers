@@ -1,0 +1,15 @@
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\bin\Debug\DininigPhilosophers.exe.config
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\bin\Debug\DininigPhilosophers.exe
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\bin\Debug\DininigPhilosophers.pdb
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\obj\Debug\DininigPhilosophers.csprojAssemblyReference.cache
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\obj\Debug\DininigPhilosophers.Properties.Resources.resources
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\obj\Debug\DininigPhilosophers.csproj.GenerateResource.cache
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\obj\Debug\DininigPhilosophers.exe
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\obj\Debug\DininigPhilosophers.pdb
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\bin\Debug\Prism.dll
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\bin\Debug\System.ValueTuple.dll
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\bin\Debug\Prism.pdb
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\bin\Debug\Prism.xml
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\bin\Debug\System.ValueTuple.xml
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\obj\Debug\DininigPhilosophers.csproj.CopyComplete
+C:\Users\Omen\source\Repos\DininigPhilosophers\DininigPhilosophers\obj\Debug\DininigPhilosophers.FormMain.resources
